@@ -1,5 +1,4 @@
 # semana2--logica-algoritmo-revisao
- Reprograma - Semana 5 - Projeto Prático
 
 ## Revisão JS e ES6
 
