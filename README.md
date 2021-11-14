@@ -41,13 +41,13 @@
 Declarando variáveis:
 
 ```js
-var nome = 'Reprograma'
+var nome = 'Pessoa'
 ```
 
 Formato ES6:
 
 ```js
-const nome = 'Reprograma'
+const nome = 'Pessoa'
 
 let idade = 18
 idade = 19
@@ -70,7 +70,7 @@ console.log(frase)
 Exemplo de template string:
 
 ```js
-const nome = 'Reprograma'
+const nome = 'Alunos'
 
 const templateString = `Olá, ${nome}`
 
