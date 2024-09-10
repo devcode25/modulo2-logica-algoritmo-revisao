@@ -1,4 +1,4 @@
-# Bem vindes ao conteúdo avançado do módulo 2 - Lógica e Algoritmos 
+# Boas vindas ao conteúdo avançado do módulo 2 - Lógica e Algoritmos 
 
 ## Revisão JS e ES6
 
