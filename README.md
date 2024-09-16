@@ -89,16 +89,21 @@ Declarando funções:
 function falar() {
   return 'Pipipi popopo'
 }
+console.log(falar())
 
 function dobro(num) {
   return num * 2
 }
+console.log(dobro(10))
 
 function calcularMedia(nota1, nota2, nota3) {
   const soma = (nota1 + nota2 + nota3)
   const media = soma / 3
   return media
 }
+
+console.log(calcularMedia(10, 2, 5))
+
 ```
 
 Ou, podemos declarar as mesmas funções da seguinte forma:
